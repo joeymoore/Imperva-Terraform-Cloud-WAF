@@ -1,5 +1,5 @@
 account_id,domain,force_ssl,data_storage_region,send_site_setup_emails,site_ip
-1544595,devops1.imperva.securitytestingsolutions.com,TRUE,AU,FALSE,3.24.114.188
-1544595,devops2.imperva.securitytestingsolutions.com,TRUE,AU,FALSE,3.24.114.188
-1544595,devops3.imperva.securitytestingsolutions.com,TRUE,AU,FALSE,3.24.114.188
-1544595,devops4.imperva.securitytestingsolutions.com,TRUE,AU,FALSE,3.24.114.188
+2398,devops1.dev.impervademo.com,TRUE,AU,FALSE,3.24.114.188
+2398,devops2.dev.impervademo.com,TRUE,AU,FALSE,3.24.114.188
+2398,devops3.dev.impervademo.com,TRUE,AU,FALSE,3.24.114.188
+2398,devops4.dev.impervademo.com,TRUE,AU,FALSE,3.24.114.188
